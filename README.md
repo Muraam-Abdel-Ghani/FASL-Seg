@@ -30,7 +30,7 @@ model.load_state_dict(torch.load(f"path/to/file.pth"))
 
 The implementations of the metrics used for training and testing are present under the metrics directory, namely the mean Intersection over Union (mIoU) and Dice similarity coefficient (Dice). The code for the dataset used for the dataloader is in the dataset.py file.
 
-The links to the datasets online is as follows:
+The links to the datasets online are as follows:
 - [EndoVis18 Parts & Anatomy Segmentation dataset](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/Data/)
 - For the tool annotations of EndoVis18, follow the instructions at (https://github.com/BCV-Uniandes/ISINet/blob/main/data/README.md)
 - [EndoVis17 Tool Segmentation dataset](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/Data/)
