@@ -35,7 +35,7 @@ The links to the datasets online is as follows:
 - For the tool annotations of EndoVis18, follow the instructions at (https://github.com/BCV-Uniandes/ISINet/blob/main/data/README.md)
 - [EndoVis17 Tool Segmentation dataset](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/Data/)
 
-## Trained Model Checkpoints
+# Trained Model Checkpoints
 The trained models were saved with both model and optimizer state dictionaries. The model checkpoint files can be accessed from the following links:
 
 - [EndoVis18 Parts & Anatomy Model Checkpoint](https://drive.google.com/file/d/1Ifu4clWiuER1P5eRY_Cac_zO4QOU-viW/view?usp=sharing)
@@ -44,7 +44,7 @@ The trained models were saved with both model and optimizer state dictionaries. 
 
 - [EndoVis17 Tool Checkpoint](https://drive.google.com/file/d/1DJnV_O5Dwfes9BWi-kfDrHc82v0ysUj2/view?usp=sharing)
 
-## Citation
+# Citation
 If you are interested to build on this code or use it in any research, make sure to cite our paper in any publications:
 ```
 TO BE ADDED SOON
