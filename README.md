@@ -47,6 +47,6 @@ The trained models were saved with both model and optimizer state dictionaries. 
 # Citation
 If you are interested to build on this code or use it in any research, make sure to cite our paper in any publications:
 ```
-Abdel-Ghani, M., Ali, M., Ali, M., Ahmed, F., Arsalan, M., Al-Ali, A., & Balakrishnan, S. (2025). FASL-SEG: Anatomy and tool Segmentation of surgical scenes. In Frontiers in artificial intelligence and applications. https://doi.org/10.3233/faia250908
+Abdel-Ghani, M., Ali, M., Ali, M., Ahmed, F., Arsalan, M., Al-Ali, A., & Balakrishnan, S. (2025). FASL-Seg: Anatomy and tool Segmentation of surgical scenes. In Frontiers in Artificial Intelligence and Applications. https://doi.org/10.3233/faia250908
 
 ```
